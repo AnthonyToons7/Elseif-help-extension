@@ -10,6 +10,6 @@ It triggers the second you finish that second f
 
 ### 1.0.0
 
-Initial release of thos extension
+Initial release of this extension
 
 **Enjoy!**
